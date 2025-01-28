@@ -10,7 +10,7 @@ This tool is intended for network administrators and users who need to retrieve 
 
    Zip file.
    
-   - To download the tool, go to the GitHub repository and click on the **"Code"** button.
+   - To download the tool, Click on the **"Code"** button.
    - Select **"Download ZIP"** from the dropdown menu.
    - Extract & run the bat file `WinWifiProfilesDumper.bat`
   
