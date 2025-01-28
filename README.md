@@ -18,7 +18,7 @@ This tool is intended for network administrators and users who need to retrieve 
 
    1. Open **Git Bash** (or any command-line terminal that supports Git).
    2. Navigate to the folder where you want to download the tool.
-   3. Run the following command to clone the repository:
+   3. Run the following commands to clone the repository and run the tool:
    Bash
    ```
    git clone https://github.com/Roger-Rached-ozz961/WinWifiProfilesDumper.git
@@ -60,10 +60,6 @@ This tool is intended for network administrators and users who need to retrieve 
 ## License
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
-
-## Author
-
-This tool was created by **Roger (Ozz961)**.
 
 ### Contact
 
