@@ -71,7 +71,7 @@ This tool was created by **Roger Rached /or Ozz961**.
 
 ### Contact
 
-- Email: [roger.contact@example.com](mailto:roger.contact@example.com)
+- Email: [click here](mailto:roger_rached@outlook.com)
 
 ---
 
