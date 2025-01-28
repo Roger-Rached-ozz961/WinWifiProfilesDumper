@@ -6,10 +6,10 @@
 
 This tool is intended for network administrators and users who need to retrieve Wi-Fi passwords and network details of Wi-Fi profiles saved on a Windows system. It helps in recovering Wi-Fi passwords for networks that the user has previously connected to.
 
-### tool options
+### Features
 
 1. **Specific Wi-Fi Password Retrieval**  
-   Retrieve the password for a user-specified Wi-Fi network SSID.
+   Retrieve the password for a user-specified Wi-Fi network.
    
 2. **All Saved Wi-Fi Profiles Dumper**  
    Dumps all saved Wi-Fi profiles (including passwords) to a results folder for later review.
@@ -28,7 +28,7 @@ To use the tool, run the `WinWifiProfilesDumper.bat` file. After execution, you 
    Choose this option to retrieve the password for a specific Wi-Fi network by entering its name.
 
 2. **Dump All Saved Wi-Fi Profiles**  
-   Choose this option to dump all saved Wi-Fi profiles to a results folder. Check the folder for the dumped profiles and their details. (needs admin priv, file format wifi_profiles_[LOCAL_USERNAME]_[TIMESTAMP].txt)
+   Choose this option to dump all saved Wi-Fi profiles to a results folder. Check the folder for the dumped profiles and their details.
 
 3. **Credits/Author Information**  
    View information about the author and credits.
@@ -38,7 +38,7 @@ To use the tool, run the `WinWifiProfilesDumper.bat` file. After execution, you 
 
 **Important**: If you choose option 2 to dump all profiles, make sure to check your results folder for the dumped profiles.
 
-### How to get it Running.
+### How to Run
 
 1. Download or clone this repository to your local machine.
 2. Ensure that Python 3.x is installed on your system.
@@ -67,15 +67,16 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ## Author
 
-This tool was created by **Roger Rached /or Ozz961**.
+This tool was created by **Roger (Ozz961)**.
 
 ### Contact
 
-- Email: [click here](mailto:roger_rached@outlook.com)
+- **Email**: [roger_rached@outlook.com](mailto:roger_rached@outlook.com)
+- **LinkedIn**: [https://www.linkedin.com/in/roger-rached-ozz961/](https://www.linkedin.com/in/roger-rached-ozz961/)
 
 ---
 
-## In Summary:
+## In summary:
 
 - Make sure you run this tool with administrative privileges for it to work correctly.
 - The results folder (for option 2) will contain a text file with details of all the saved Wi-Fi profiles, including their passwords.
