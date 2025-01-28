@@ -14,7 +14,7 @@ This tool is intended for network administrators and users who need to retrieve 
    - Select **"Download ZIP"** from the dropdown menu.
    - Extract & run the bat file `WinWifiProfilesDumper.bat`
   
-   Option B: CLI.
+   CLI.
 
    1. Open **Git Bash** (or any command-line terminal that supports Git).
    2. Navigate to the folder where you want to download the tool.
