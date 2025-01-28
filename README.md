@@ -38,7 +38,7 @@ To use the tool, run the `WinWifiProfilesDumper.bat` file. After execution, you 
 
 **Important**: If you choose option 2 to dump all profiles, make sure to check your results folder for the dumped profiles.
 
-### How to Run
+### How to get it to Run.
 
 1. Download or clone this repository to your local machine.
 2. Ensure that Python 3.x is installed on your system.
@@ -84,4 +84,4 @@ This tool was created by **Roger (Ozz961)**.
 
 ---
 
-Feel free to contact the author via the provided contact details for any questions or feedback.
+Feel free to contact me via the provided contact details for any questions or feedback.
