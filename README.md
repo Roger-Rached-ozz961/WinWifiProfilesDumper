@@ -1,12 +1,31 @@
 # WinWifiProfilesDumper
 
-**WinWifiProfilesDumper** is a Python-powered tool with a **WinWifiProfilesDumper.bat** wrapper, designed to help users retrieve Wi-Fi passwords and profile details on Windows systems.
+**WinWifiProfilesDumper** is a Python based tool wrapped in a bat file, designed to help users retrieve Wi-Fi passwords and profile details on Windows systems.
 
 ## Purpose
 
 This tool is intended for network administrators and users who need to retrieve Wi-Fi passwords and network details of Wi-Fi profiles saved on a Windows system. It helps in recovering Wi-Fi passwords for networks that the user has previously connected to.
 
-### Features
+## Download & Usage.
+
+   Zip file.
+   
+   - To download the tool, go to the GitHub repository and click on the **"Code"** button.
+   - Select **"Download ZIP"** from the dropdown menu.
+   - Extract & run the bat file `WinWifiProfilesDumper.bat`
+  
+   Option B: CLI.
+
+   1. Open **Git Bash** (or any command-line terminal that supports Git).
+   2. Navigate to the folder where you want to download the tool.
+   3. Run the following command to clone the repository:
+   Bash
+   ```
+   git clone https://github.com/Roger-Rached-ozz961/WinWifiProfilesDumper.git
+   cd WinWifiProfilesDumper
+   .\WinWifiProfilesDumper.bat
+   ```
+### The Options:
 
 1. **Specific Wi-Fi Password Retrieval**  
    Retrieve the password for a user-specified Wi-Fi network.
@@ -20,36 +39,13 @@ This tool is intended for network administrators and users who need to retrieve 
 4. **Exit**  
    Gracefully exits the tool.
 
-## Usage
-
-To use the tool, run the `WinWifiProfilesDumper.bat` file. After execution, you will be presented with the following options:
-
-1. **Retrieve Specific Wi-Fi Password**  
-   Choose this option to retrieve the password for a specific Wi-Fi network by entering its name.
-
-2. **Dump All Saved Wi-Fi Profiles**  
-   Choose this option to dump all saved Wi-Fi profiles to a results folder. Check the folder for the dumped profiles and their details.
-
-3. **Credits/Author Information**  
-   View information about the author and credits.
-
-4. **Exit**  
-   Exit the tool gracefully.
-
-**Important**: If you choose option 2 to dump all profiles, make sure to check your results folder for the dumped profiles.
-
-### How to get it to Run.
-
-1. Download or clone this repository to your local machine.
-2. Ensure that Python 3.x is installed on your system.
-3. Run `WinWifiProfilesDumper.bat` as an administrator to execute the tool.
-4. Follow the on-screen instructions to choose the desired option.
+**Important Note**: If you choose option 2 to dump all profiles, make sure to check your " results " folder for the dumped profiles.
 
 ## Requirements
 
-- **Python 3.x**
+- **Python 3.x**:    Make sure **Python 3.x** is installed on your system. You can download it from the official website: [Python Download](https://www.python.org/downloads/).
 - **Windows OS**
-- Administrative privileges (required for retrieving Wi-Fi details)
+- **Administrative Privileges** (required for retrieving Wi-Fi details)
 
 ## Disclaimer
 
@@ -73,14 +69,6 @@ This tool was created by **Roger (Ozz961)**.
 
 - **Email**: [roger_rached@outlook.com](mailto:roger_rached@outlook.com)
 - **LinkedIn**: [https://www.linkedin.com/in/roger-rached-ozz961/](https://www.linkedin.com/in/roger-rached-ozz961/)
-
----
-
-## In summary:
-
-- Make sure you run this tool with administrative privileges for it to work correctly.
-- The results folder (for option 2) will contain a text file with details of all the saved Wi-Fi profiles, including their passwords.
-- Use this tool responsibly and ensure that you're only accessing networks you are authorized to access.
 
 ---
 
